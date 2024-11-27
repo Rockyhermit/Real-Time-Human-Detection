@@ -24,3 +24,9 @@ Before you begin, ensure you have the following installed the requirements.txt (
 Press 'r' to start/stop recording.
 
 Press 'q' to exit the application.
+
+## Results
+
+
+https://github.com/user-attachments/assets/8f8cd5de-1a72-4d07-9c6d-84a135979fc6
+
